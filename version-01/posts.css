@@ -1,0 +1,83 @@
+* {
+    font-size: 23px;
+}
+div {
+    display: flex;
+    justify-content: space-between;
+}
+.postbody {
+    padding-right: 350px;
+    padding-left: 350px;
+}
+a {
+    text-decoration: none;
+    color: white;
+}
+.half-highlight1:hover, .half-highlight2:hover, .half-highlight3:hover {
+    font-size: 27px;
+    text-decoration: underline;
+    text-decoration-color: white;
+}
+.continue1:hover, .continue2:hover, .continue3:hover {
+    font-size: 30px;
+}
+h1 {
+    font-size: 80px;
+    text-align: center;
+    color: rgb(0, 0, 100);
+    text-decoration: underline;
+    text-decoration-color: #0025;
+}
+.navigation {
+    padding-right: 368px;
+    padding-left: 368px;
+}
+.half-highlight1, .half-highlight2, .half-highlight3 {
+    font-size: 30px;
+    padding-right: 10px;
+    padding-left: 10px;
+    background-color: #0025;
+    padding-top: 5px;
+    padding-bottom: 10px;
+    color: white;
+}
+.h2 {
+    color: black;
+    font-size: 30px;
+    text-align: center;
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0) 65%, #0025 65%);
+}
+.h2:hover {
+    text-decoration: none;
+}
+img {
+    height: 400px;
+    width: 800px;
+}
+.continue1, .continue2, .continue3 {
+    color: white;
+    background-color:rgb(0, 0, 100);
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-top: 5px;
+    padding-bottom: 10px;
+    box-align: center;
+}
+.heading {
+    color: white;
+    background-color: rgb(0, 0, 100);
+    padding-top: 18px;
+    padding-bottom: 18px;
+    padding-right: 50px;
+    padding-left: 50px;
+    text-align: center;
+}
+.image {
+    height: 227px;
+    width: 227px;
+    display: inline-block;
+    padding-right: 18px;
+    padding-left: 18px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
